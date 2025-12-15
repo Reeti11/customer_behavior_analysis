@@ -1,4 +1,4 @@
-# 📊 End-to-End Data Analytics Project
+# 📊 End-to-End Data Analytics Project(Customer Behavior Analysis)
 ## 🚀 Overview
 
 This project showcases a complete data analytics lifecycle, demonstrating how raw data is transformed into actionable business insights. It highlights hands-on experience with Python, SQL Server, and Power BI, along with strong storytelling through reports and presentations.
